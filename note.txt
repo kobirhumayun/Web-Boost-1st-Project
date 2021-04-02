@@ -1,6 +1,0 @@
-git puss text
-Push parctice
-Yes git push work "great"
-wow
-SSH key push test
-SSH Key pull test
